@@ -1,7 +1,10 @@
 body{
   font-family: 'Open Sans', sans-serif !important;
- }
+  background: url('restaurant.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
 
 .text-slanted{
   font-family: 'Courgette', cursive;
 }
+
